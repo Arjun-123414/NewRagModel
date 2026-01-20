@@ -160,3 +160,4 @@ if __name__ == "__main__":
     print("="*60)
     for file_name, plans in all_bids.items():
         print(f"📄 {file_name}: {len(plans)} plans extracted")
+
