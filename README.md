@@ -217,7 +217,9 @@ Examples:
 - State
 - ZIP
 - Metro Area (e.g. DFW)
-
+```text
+python trial.py
+```
 Useful for:
 - Regional bid analysis
 - Location‑based pricing
