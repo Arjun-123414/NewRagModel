@@ -1,0 +1,664 @@
+{
+  "2025 Tri Pointe LaPrelle Revised Bidsheet 08.22.25.xlsx": [
+    {
+      "plan_number": "4101",
+      "total_price": 8339.52,
+      "system_type": "Gas",
+      "tonnage": 3.5,
+      "rough_po": null,
+      "trim_po": null
+    },
+    {
+      "plan_number": "4102",
+      "total_price": 8845.96,
+      "system_type": "Gas",
+      "tonnage": 3.5,
+      "rough_po": null,
+      "trim_po": null
+    },
+    {
+      "plan_number": "4103",
+      "total_price": 9145.96,
+      "system_type": "Gas",
+      "tonnage": 3.5,
+      "rough_po": null,
+      "trim_po": null
+    },
+    {
+      "plan_number": "4104",
+      "total_price": 9118.67,
+      "system_type": "Gas",
+      "tonnage": 3.5,
+      "rough_po": null,
+      "trim_po": null
+    },
+    {
+      "plan_number": "4105",
+      "total_price": 11336.83,
+      "system_type": "Gas",
+      "tonnage": 4,
+      "rough_po": null,
+      "trim_po": null
+    },
+    {
+      "plan_number": "4106",
+      "total_price": 11759.56,
+      "system_type": "Gas",
+      "tonnage": 5,
+      "rough_po": null,
+      "trim_po": null
+    },
+    {
+      "plan_number": "4107",
+      "total_price": 12511.71,
+      "system_type": "Gas",
+      "tonnage": 5,
+      "rough_po": null,
+      "trim_po": null
+    },
+    {
+      "plan_number": "4109",
+      "total_price": 15651.16,
+      "system_type": "Gas",
+      "tonnage": 4,
+      "rough_po": null,
+      "trim_po": null
+    },
+    {
+      "plan_number": "5100",
+      "total_price": 9312.75,
+      "system_type": "Gas",
+      "tonnage": 4,
+      "rough_po": null,
+      "trim_po": null
+    },
+    {
+      "plan_number": "5101",
+      "total_price": 8845.96,
+      "system_type": "Gas",
+      "tonnage": 3.5,
+      "rough_po": null,
+      "trim_po": null
+    },
+    {
+      "plan_number": "5102",
+      "total_price": 8845.96,
+      "system_type": "Gas",
+      "tonnage": 3.5,
+      "rough_po": null,
+      "trim_po": null
+    },
+    {
+      "plan_number": "5103",
+      "total_price": 9809.18,
+      "system_type": "Gas",
+      "tonnage": 4,
+      "rough_po": null,
+      "trim_po": null
+    },
+    {
+      "plan_number": "5104",
+      "total_price": 14572.67,
+      "system_type": "Gas",
+      "tonnage": null,
+      "rough_po": null,
+      "trim_po": null
+    },
+    {
+      "plan_number": "5105",
+      "total_price": 15161.72,
+      "system_type": "Gas",
+      "tonnage": null,
+      "rough_po": null,
+      "trim_po": null
+    },
+    {
+      "plan_number": "5106",
+      "total_price": 15101.1,
+      "system_type": "Gas",
+      "tonnage": null,
+      "rough_po": null,
+      "trim_po": null
+    },
+    {
+      "plan_number": "5201",
+      "total_price": 9625.11,
+      "system_type": "Gas",
+      "tonnage": 3.5,
+      "rough_po": null,
+      "trim_po": null
+    },
+    {
+      "plan_number": "5202",
+      "total_price": 10581.33,
+      "system_type": "Gas",
+      "tonnage": 4,
+      "rough_po": null,
+      "trim_po": null
+    },
+    {
+      "plan_number": "5203",
+      "total_price": 14454.21,
+      "system_type": "Gas",
+      "tonnage": null,
+      "rough_po": null,
+      "trim_po": null
+    },
+    {
+      "plan_number": "5205",
+      "total_price": 16847.43,
+      "system_type": "Gas",
+      "tonnage": null,
+      "rough_po": null,
+      "trim_po": null
+    }
+  ],
+  "L&S - HVAC BASE BIDS 6.25.25.pdf": [
+    {
+      "plan_number": "3101",
+      "total_price": 12427.0,
+      "system_type": "Gas",
+      "tonnage": 3.5,
+      "rough_po": 7456.2,
+      "trim_po": 4970.8
+    },
+    {
+      "plan_number": "3102",
+      "total_price": 13125.0,
+      "system_type": "Gas",
+      "tonnage": 4.0,
+      "rough_po": 7875.0,
+      "trim_po": 5250.0
+    },
+    {
+      "plan_number": "3103",
+      "total_price": 11858.0,
+      "system_type": "Gas",
+      "tonnage": 4.0,
+      "rough_po": 7114.8,
+      "trim_po": 4743.2
+    },
+    {
+      "plan_number": "3104",
+      "total_price": 13221.0,
+      "system_type": "Gas",
+      "tonnage": 5.0,
+      "rough_po": 7932.6,
+      "trim_po": 5288.4
+    },
+    {
+      "plan_number": "3110",
+      "total_price": 8613.0,
+      "system_type": "Gas",
+      "tonnage": 2.5,
+      "rough_po": 5167.8,
+      "trim_po": 3445.2
+    },
+    {
+      "plan_number": "3111",
+      "total_price": 11381.0,
+      "system_type": "Gas",
+      "tonnage": 3.0,
+      "rough_po": 6828.6,
+      "trim_po": 4552.4
+    },
+    {
+      "plan_number": "3112",
+      "total_price": 11445.0,
+      "system_type": "Gas",
+      "tonnage": 3.5,
+      "rough_po": 6867.0,
+      "trim_po": 4578.0
+    },
+    {
+      "plan_number": "3113",
+      "total_price": 11585.0,
+      "system_type": "Gas",
+      "tonnage": 3.5,
+      "rough_po": 6951.0,
+      "trim_po": 4634.0
+    },
+    {
+      "plan_number": "3114",
+      "total_price": 12333.0,
+      "system_type": "Gas",
+      "tonnage": 4.0,
+      "rough_po": 7399.8,
+      "trim_po": 4933.2
+    },
+    {
+      "plan_number": "3115",
+      "total_price": 12221.0,
+      "system_type": "Gas",
+      "tonnage": 4.0,
+      "rough_po": 7332.6,
+      "trim_po": 4888.4
+    },
+    {
+      "plan_number": "3301",
+      "total_price": 8705.0,
+      "system_type": "Gas",
+      "tonnage": 2.5,
+      "rough_po": 5223.0,
+      "trim_po": 3482.0
+    },
+    {
+      "plan_number": "3302",
+      "total_price": 11143.0,
+      "system_type": "Gas",
+      "tonnage": 3.0,
+      "rough_po": 6685.8,
+      "trim_po": 4457.2
+    },
+    {
+      "plan_number": "3303",
+      "total_price": 11522.0,
+      "system_type": "Gas",
+      "tonnage": 3.5,
+      "rough_po": 6913.2,
+      "trim_po": 4608.8
+    },
+    {
+      "plan_number": "3304",
+      "total_price": 11723.0,
+      "system_type": "Gas",
+      "tonnage": 4.0,
+      "rough_po": 7033.8,
+      "trim_po": 4689.2
+    },
+    {
+      "plan_number": "3305",
+      "total_price": 11865.0,
+      "system_type": "Gas",
+      "tonnage": 4.0,
+      "rough_po": 7119.0,
+      "trim_po": 4746.0
+    },
+    {
+      "plan_number": "3306",
+      "total_price": 12182.0,
+      "system_type": "Gas",
+      "tonnage": 4.0,
+      "rough_po": 7309.2,
+      "trim_po": 4872.8
+    },
+    {
+      "plan_number": "3401",
+      "total_price": 12087.0,
+      "system_type": "Gas",
+      "tonnage": 3.5,
+      "rough_po": 7252.2,
+      "trim_po": 4834.8
+    },
+    {
+      "plan_number": "3402",
+      "total_price": 12060.0,
+      "system_type": "Gas",
+      "tonnage": 4.0,
+      "rough_po": null,
+      "trim_po": null
+    },
+    {
+      "plan_number": "3403",
+      "total_price": 11757.0,
+      "system_type": "null",
+      "tonnage": null,
+      "rough_po": 7054.2,
+      "trim_po": 4702.8
+    },
+    {
+      "plan_number": "3404",
+      "total_price": 12138.0,
+      "system_type": "null",
+      "tonnage": null,
+      "rough_po": 7282.8,
+      "trim_po": 4855.2
+    },
+    {
+      "plan_number": "3501",
+      "total_price": 12068.0,
+      "system_type": "null",
+      "tonnage": null,
+      "rough_po": 7240.8,
+      "trim_po": 4827.2
+    },
+    {
+      "plan_number": "3504",
+      "total_price": 12969.0,
+      "system_type": "null",
+      "tonnage": null,
+      "rough_po": 7781.4,
+      "trim_po": 5187.6
+    },
+    {
+      "plan_number": "4100",
+      "total_price": 9070.0,
+      "system_type": "Gas",
+      "tonnage": 3.0,
+      "rough_po": 5442.0,
+      "trim_po": 3628.0
+    },
+    {
+      "plan_number": "4101",
+      "total_price": 9920.0,
+      "system_type": "Gas",
+      "tonnage": 3.0,
+      "rough_po": 5952.0,
+      "trim_po": 3968.0
+    },
+    {
+      "plan_number": "4102",
+      "total_price": 10168.0,
+      "system_type": "Gas",
+      "tonnage": 3.0,
+      "rough_po": 6100.8,
+      "trim_po": 4067.2
+    },
+    {
+      "plan_number": "4103",
+      "total_price": 10617.0,
+      "system_type": "Gas",
+      "tonnage": 3.5,
+      "rough_po": 6370.2,
+      "trim_po": 4246.8
+    },
+    {
+      "plan_number": "4104",
+      "total_price": 9942.0,
+      "system_type": "Gas",
+      "tonnage": 3.5,
+      "rough_po": 5965.2,
+      "trim_po": 3976.8
+    },
+    {
+      "plan_number": "4105",
+      "total_price": 12388.0,
+      "system_type": "Gas",
+      "tonnage": 4.0,
+      "rough_po": 7432.8,
+      "trim_po": 4955.2
+    },
+    {
+      "plan_number": "4106",
+      "total_price": 11195.0,
+      "system_type": "Gas",
+      "tonnage": 5.0,
+      "rough_po": 6717.0,
+      "trim_po": 4478.0
+    },
+    {
+      "plan_number": "4107",
+      "total_price": 12760.0,
+      "system_type": "Gas",
+      "tonnage": 5.0,
+      "rough_po": 7656.0,
+      "trim_po": 5104.0
+    },
+    {
+      "plan_number": "4108",
+      "total_price": 12985.0,
+      "system_type": "Gas",
+      "tonnage": 5.0,
+      "rough_po": 7791.0,
+      "trim_po": 5194.0
+    },
+    {
+      "plan_number": "4109",
+      "total_price": 15370.0,
+      "system_type": "Gas",
+      "tonnage": 5.0,
+      "rough_po": 9222.0,
+      "trim_po": 6148.0
+    },
+    {
+      "plan_number": "5100",
+      "total_price": 10002.0,
+      "system_type": "Gas",
+      "tonnage": 3.5,
+      "rough_po": 6001.2,
+      "trim_po": 4000.8
+    },
+    {
+      "plan_number": "5101",
+      "total_price": 9169.0,
+      "system_type": "Gas",
+      "tonnage": 3.5,
+      "rough_po": 5501.4,
+      "trim_po": 3667.6
+    },
+    {
+      "plan_number": "5102",
+      "total_price": 9768.0,
+      "system_type": "Gas",
+      "tonnage": 3.5,
+      "rough_po": 5860.8,
+      "trim_po": null
+    },
+    {
+      "plan_number": "5103",
+      "total_price": 9742.0,
+      "system_type": "Gas",
+      "tonnage": 4.0,
+      "rough_po": 5845.2,
+      "trim_po": 3896.8
+    },
+    {
+      "plan_number": "5104",
+      "total_price": 13128.0,
+      "system_type": "Gas",
+      "tonnage": 5.0,
+      "rough_po": 7876.8,
+      "trim_po": 5251.2
+    },
+    {
+      "plan_number": "5105",
+      "total_price": 12856.0,
+      "system_type": "Gas",
+      "tonnage": 5.0,
+      "rough_po": 7713.6,
+      "trim_po": 5142.4
+    },
+    {
+      "plan_number": "5106",
+      "total_price": 13027.0,
+      "system_type": "Gas",
+      "tonnage": 5.0,
+      "rough_po": 7816.2,
+      "trim_po": 5210.8
+    },
+    {
+      "plan_number": "5117",
+      "total_price": 17192.0,
+      "system_type": "Gas",
+      "tonnage": 4.0,
+      "rough_po": 10315.2,
+      "trim_po": 6876.8
+    },
+    {
+      "plan_number": "5202",
+      "total_price": 10167.0,
+      "system_type": "Gas",
+      "tonnage": 4.0,
+      "rough_po": 6100.2,
+      "trim_po": 4066.8
+    },
+    {
+      "plan_number": "5203",
+      "total_price": 13323.0,
+      "system_type": "Gas",
+      "tonnage": 5.0,
+      "rough_po": 7993.8,
+      "trim_po": 5329.2
+    },
+    {
+      "plan_number": "5204",
+      "total_price": 14898.0,
+      "system_type": "Gas",
+      "tonnage": 5.0,
+      "rough_po": 8938.8,
+      "trim_po": 5959.2
+    },
+    {
+      "plan_number": "5205",
+      "total_price": 16325.0,
+      "system_type": "Gas",
+      "tonnage": 2.0,
+      "rough_po": 9795.0,
+      "trim_po": 6530.0
+    }
+  ],
+  "Tri Pointe Homes 2025 LaPrelle Pricing Carrier Update 08.22.25.pdf": [
+    {
+      "plan_number": "4101",
+      "total_price": 9425.0,
+      "system_type": "Gas",
+      "tonnage": 3.5,
+      "rough_po": 5655.0,
+      "trim_po": 3770.0
+    },
+    {
+      "plan_number": "4102",
+      "total_price": 9425.0,
+      "system_type": "Gas",
+      "tonnage": 3.5,
+      "rough_po": 5655.0,
+      "trim_po": 3770.0
+    },
+    {
+      "plan_number": "4103",
+      "total_price": 9425.0,
+      "system_type": "Gas",
+      "tonnage": 3.5,
+      "rough_po": 5655.0,
+      "trim_po": 3770.0
+    },
+    {
+      "plan_number": "4104",
+      "total_price": 9425.0,
+      "system_type": "Gas",
+      "tonnage": 3.5,
+      "rough_po": 5655.0,
+      "trim_po": 3770.0
+    },
+    {
+      "plan_number": "4105",
+      "total_price": 12400.0,
+      "system_type": "Gas",
+      "tonnage": 4.0,
+      "rough_po": 7440.0,
+      "trim_po": 4960.0
+    },
+    {
+      "plan_number": "4106",
+      "total_price": 12400.0,
+      "system_type": "Gas",
+      "tonnage": 4.0,
+      "rough_po": 7440.0,
+      "trim_po": 4960.0
+    },
+    {
+      "plan_number": "4107",
+      "total_price": 12400.0,
+      "system_type": "Gas",
+      "tonnage": 4.0,
+      "rough_po": 7440.0,
+      "trim_po": 4960.0
+    },
+    {
+      "plan_number": "4109",
+      "total_price": 12400.0,
+      "system_type": "Gas",
+      "tonnage": 4.0,
+      "rough_po": 7440.0,
+      "trim_po": 4960.0
+    },
+    {
+      "plan_number": "5100",
+      "total_price": 9425.0,
+      "system_type": "Gas",
+      "tonnage": 4.0,
+      "rough_po": 5655.0,
+      "trim_po": 3393.0
+    },
+    {
+      "plan_number": "5101",
+      "total_price": 9425.0,
+      "system_type": "Gas",
+      "tonnage": 3.5,
+      "rough_po": 5655.0,
+      "trim_po": 3393.0
+    },
+    {
+      "plan_number": "5102",
+      "total_price": 9425.0,
+      "system_type": "Gas",
+      "tonnage": 3.5,
+      "rough_po": 5655.0,
+      "trim_po": 3393.0
+    },
+    {
+      "plan_number": "5103",
+      "total_price": 9425.0,
+      "system_type": "Gas",
+      "tonnage": 4.0,
+      "rough_po": 5655.0,
+      "trim_po": 3393.0
+    },
+    {
+      "plan_number": "5104",
+      "total_price": 12900.0,
+      "system_type": "Gas",
+      "tonnage": 5.0,
+      "rough_po": 7740.0,
+      "trim_po": 4644.0
+    },
+    {
+      "plan_number": "5105",
+      "total_price": 12900.0,
+      "system_type": "Gas",
+      "tonnage": 5.0,
+      "rough_po": 7740.0,
+      "trim_po": 4644.0
+    },
+    {
+      "plan_number": "5106",
+      "total_price": 12900.0,
+      "system_type": "Gas",
+      "tonnage": 5.0,
+      "rough_po": 7740.0,
+      "trim_po": 4644.0
+    },
+    {
+      "plan_number": "5201",
+      "total_price": 9425.0,
+      "system_type": "Gas",
+      "tonnage": 4.0,
+      "rough_po": 5655.0,
+      "trim_po": 3393.0
+    },
+    {
+      "plan_number": "5202",
+      "total_price": 9425.0,
+      "system_type": "Gas",
+      "tonnage": 4.0,
+      "rough_po": 5655.0,
+      "trim_po": 3393.0
+    },
+    {
+      "plan_number": "5203",
+      "total_price": 12400.0,
+      "system_type": "Gas",
+      "tonnage": 4.0,
+      "rough_po": 7440.0,
+      "trim_po": 4464.0
+    },
+    {
+      "plan_number": "5205",
+      "total_price": 16900.0,
+      "system_type": "Gas",
+      "tonnage": 4.0,
+      "rough_po": 10140.0,
+      "trim_po": 6084.0
+    }
+  ]
+}
