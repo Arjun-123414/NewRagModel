@@ -198,7 +198,7 @@ Available in both Streamlit apps.
 Ask **business‑style questions**, not technical ones:
 
 Examples:
-- `Plan 4101 kis file ka best hai aur kyun?`
+- `Plan 4101 is best for which bid and why?`
 - `Compare plan 4102 across all vendors`
 - `Which bid saves the most money overall?`
 - `What is the price difference for plan 4104?`
