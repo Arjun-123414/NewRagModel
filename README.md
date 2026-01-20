@@ -28,6 +28,129 @@ This system:
 
 ---
 
+## 🔍 How It Works (End‑to‑End Explanation)
+
+This section explains **how the system actually handles very large bid documents (80+ pages), multiple vendors, and dozens of plans** in a reliable and scalable way.
+
+The key idea is simple but powerful:
+> **The full document is never blindly sent to the LLM.**
+
+Instead, the system breaks the problem into controlled, verifiable steps.
+
+---
+
+### 1️⃣ Document Ingestion & Chunking
+
+- Each PDF or Excel file is first loaded using document loaders.
+- Large PDFs are **split into smaller text chunks**.
+
+Why chunking is important:
+- Prevents token‑limit issues
+- Reduces hallucination
+- Improves extraction accuracy
+
+You can think of this as:
+> Breaking a large book into smart, readable sections.
+
+---
+
+### 2️⃣ Targeted LLM Analysis (Chunk‑Level)
+
+Each chunk is analyzed independently by the LLM with **very focused prompts**, such as:
+- Does this chunk contain a *plan number*?
+- Is there a *price or total* mentioned?
+- Is this describing *scope or line items*?
+
+Important behavior:
+- Chunks without plan‑related information are **ignored**
+- Cover pages, legal text, and indexes are automatically filtered out
+
+The LLM is used for **understanding text**, not guessing.
+
+---
+
+### 3️⃣ Plan‑Level Data Extraction
+
+Relevant chunks are converted into structured data.
+
+Information like:
+- Plan number
+- Plan name
+- Price
+- Vendor
+- Source file
+
+Multiple chunks referring to the same plan are **merged into a single structured record**.
+
+There is **no hardcoding of plan numbers**, so plans can appear anywhere in the document.
+
+---
+
+### 4️⃣ Cross‑File Normalization
+
+Once extraction is complete:
+- Plans from all vendors are collected
+- Prices are normalized
+- The same plan number is matched across different files
+
+This creates a clean, comparable structure such as:
+- Plan 4101 → Vendor A vs Vendor B vs Vendor C
+
+This ensures a true **apples‑to‑apples comparison**.
+
+---
+
+### 5️⃣ Fair Comparison Logic
+
+To avoid misleading results:
+- Plans that appear in **only one bid are excluded**
+- At least **two vendors must have the same plan** for comparison
+
+This prevents false winners and ensures business‑grade accuracy.
+
+---
+
+### 6️⃣ Separation of Intelligence and Calculation
+
+The system clearly separates responsibilities:
+
+- **LLM** is used for:
+  - Understanding messy, unstructured text
+  - Identifying plans and prices
+  - Explaining results in plain language
+
+- **Python logic** is used for:
+  - Price comparison
+  - Winner selection
+  - Savings calculation
+
+This makes results deterministic, auditable, and trustworthy.
+
+---
+
+### 7️⃣ AI Chat Layer (Optional)
+
+In chat mode (`llm_chat.py`):
+- The LLM does **not re‑read PDFs**
+- It only sees already extracted structured data (JSON / tables)
+
+This makes the chat:
+- Fast
+- Cost‑efficient
+- Grounded in real data
+
+---
+
+### 🧠 Simple Mental Model
+
+- Documents are read **piece by piece**, not blindly
+- LLM acts like a **junior analyst**
+- Python acts like a **senior auditor**
+
+The result is a system that can handle complex bid documents and still produce **reliable, decision‑ready outputs**.
+
+---
+
 ## 🧠 High‑Level Architecture
 
 ```
@@ -198,7 +321,7 @@ Available in both Streamlit apps.
 Ask **business‑style questions**, not technical ones:
 
 Examples:
-- `Plan 4101 is best for which bid and why?`
+- `Plan 4101 kis file ka best hai aur kyun?`
 - `Compare plan 4102 across all vendors`
 - `Which bid saves the most money overall?`
 - `What is the price difference for plan 4104?`
@@ -237,16 +360,5 @@ Useful for:
 ✔ Extendable to vendors, locations, HVAC types
 
 This is **enterprise‑grade logic** packaged simply.
-
----
-
-## 🔮 Future Extensions
-
-- Vendor‑level scoring
-- Weight‑based evaluation (price + quality)
-- Snowflake / DB integration
-- Authentication & multi‑user support
-- Cloud deployment
-
----
+Because **this is how AI should be used — to decide better, faster, cheaper.**
 
