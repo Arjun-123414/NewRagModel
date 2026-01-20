@@ -248,21 +248,3 @@ This is **enterprise‑grade logic** packaged simply.
 
 ---
 
-## 🧑‍💻 Author
-
-Built with ❤️ for **real construction decision‑making**, not toy demos.
-
-If you understand this code — you understand **modern AI systems**.
-
----
-
-## ⭐ Final Note
-
-If this repo helped you:
-
-⭐ Star it  
-🍴 Fork it  
-🚀 Ship it
-
-Because **this is how AI should be used — to decide better, faster, cheaper.**
-
